@@ -1,0 +1,60 @@
+.solo {
+    height: auto;
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+.displayp {
+    height: auto;
+    width: 48%;
+    display: inline;
+    margin-right: .2em;
+    
+}
+
+.project {
+    border-bottom: 1px solid #999999;
+}
+
+#indento {
+    text-indent: 50px;
+}
+
+#hl {
+    border-bottom: 1px solid #000000;
+} 
+
+#white {
+    color: white;
+}
+
+#foot {
+    margin-top: 1em;
+}
+
+section .container {
+    margin-top: 0;
+}
+
+header {
+    background-color: #b57edc;
+    margin-top: 0;
+}
+
+#yay {
+    margin-bottom: 2em;
+}
+
+
+footer {
+    background-color: #b57edc;
+}
+li a {
+    font-weight: bold;
+    color: #fff;
+}
+
+#bluelink {
+    color:blue;
+}
